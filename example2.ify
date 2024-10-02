@@ -1,0 +1,3 @@
+date=2024-10-02;exec=notify-send "Day ended"
+file-exists=~/testfile.txt;exec=notify-send "file found"
+file-exists=~/.testfile;file-create=~/testfile2
